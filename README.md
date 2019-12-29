@@ -1,12 +1,12 @@
 # Newstart
-媽的剛才怎麼這麼難用媽的為啥部會給我排版
-錢號部用打
-first 先切換到要控制的目錄(桌面/資料夾名稱)
-$ cd Desktop/git_test
-初始化
-$ git init
-查看一下狀態
-$ git status
+  媽的剛才怎麼這麼難用媽的為啥不會給我排版
+  錢號不用打
+  first 先切換到要控制的目錄(桌面/資料夾名稱)
+    $ cd Desktop/git_test
+  初始化
+    $ git init
+  查看一下狀態
+    $ git status
 顯示：
 On branch master
 
