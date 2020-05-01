@@ -1,5 +1,4 @@
-# Newstart
-  媽的剛才怎麼這麼難用媽的Markdown為啥不會給我排版  
+# Newstart 
   錢號不用打  
   first 先切換到要控制的目錄(桌面/資料夾名稱)  
     $ cd Desktop/git_test  
@@ -36,7 +35,7 @@ $ git commit -m "init commit"
  create mode 100644 src/Keyword.java  
  create mode 100644 src/KeywordList.java  
  create mode 100644 src/Main.java  
-現在在他媽的傳到GitHub上設置節點  
+現在傳到GitHub上設置節點  
 $ git remote add origin https://github.com/YvonneWu1999/Newstart.git  
 push檔案  
 $ git push -u origin master  
